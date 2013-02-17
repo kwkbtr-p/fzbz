@@ -13,7 +13,7 @@ int main() {
       printf("Fizz");
 
     if (b & 16) {
-      printf("Bazz");
+      printf("Buzz");
       b -= 16;
     }
 
